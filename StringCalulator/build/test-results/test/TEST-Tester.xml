@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tester" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-01-29T14:43:16" hostname="recruit-Lenovo-Product" time="0.022">
+  <properties/>
+  <testcase name="threeNumbersDelimiter()" classname="Tester" time="0.011"/>
+  <testcase name="singleValue()" classname="Tester" time="0.001"/>
+  <testcase name="twoNumberReturnSum()" classname="Tester" time="0.001"/>
+  <testcase name="emptyString()" classname="Tester" time="0.001"/>
+  <testcase name="twoNumbersNewLine()" classname="Tester" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
